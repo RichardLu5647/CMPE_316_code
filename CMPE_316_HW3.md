@@ -36,7 +36,7 @@ Results: <br>
 ![image](https://github.com/user-attachments/assets/6584062d-ed8e-4c5f-9cdb-d31ba7372f8b)
 
 ## Question 2
-My Testbench:
+My testbench:
 ~~~systemverilog
 module tb();
   logic a, b, clk;
@@ -72,7 +72,7 @@ Results: <br>
 ![image](https://github.com/user-attachments/assets/c0c33691-ff85-477b-8917-777aedcea169)
 
 ## Question 3
-My Testbench:
+My testbench:
 ~~~systemverilog
 module tb();
   logic a, b, clk;
